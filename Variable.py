@@ -84,3 +84,7 @@ w = float(7)
 print(type(p))
 print(type(q))
 print(type(w))
+
+print(p)
+print(q)
+print(w)
